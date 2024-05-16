@@ -1,4 +1,4 @@
-# YouTube Browser App
+# YouTube owser App
 
 [![Build status](https://ci.appveyor.com/api/projects/status/0593n4i609cfjedu?svg=true)](https://ci.appveyor.com/project/rkttu/youtubebrowserapp)
 
